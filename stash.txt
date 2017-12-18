@@ -1,1 +1,2 @@
-第二次stash
+﻿第二次stash
+learn git 中做了修改并使用远程提交。
