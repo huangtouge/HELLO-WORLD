@@ -1,3 +1,7 @@
 第二次stash
 
 gitskill 也对这个文件进行修改
+﻿第二次stash
+learn git 中做了修改并使用远程提交。
+
+手动修复冲突后重新提交
