@@ -1,5 +1,1 @@
-# HELLO-WORLD
-MY FIRST REPOSITORY
-dev
-feature1
 feature01
