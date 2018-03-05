@@ -13,3 +13,5 @@ git reset --hard Obfafd
 紧接着强制推送到远程分支：
 
 git push -f
+
+====to remote ====
