@@ -1,3 +1,15 @@
 learning of reflog
 git reflog
 edit the file
+
+git reflog
+git reset --hard Obfafd
+
+
+git reflog
+git reset --hard Obfafd
+1
+2
+紧接着强制推送到远程分支：
+
+git push -f
