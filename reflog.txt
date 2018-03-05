@@ -1,2 +1,3 @@
 learning of reflog
 git reflog
+edit the file
